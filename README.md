@@ -5,10 +5,13 @@
 2.Consumer segments lead in sales, with fishing gear and cleats being the most profitable categories.
 
 
-3.The U.S. and Puerto Rico show the highest sales per customer, and Europe dominates total sales and profitability. >Delivery challenges are notable, particularly in cleats and men's footwear, with most delays affecting Central America and Western Europe.
+3.The U.S. and Puerto Rico show the highest sales per customer, and Europe dominates total sales and profitability. 
+
+
+4.Delivery challenges are notable, particularly in cleats and men's footwear, with most delays affecting Central America and Western Europe.
 
  
-4.Recommendations focus on targeted marketing, improving logistics, and revitalizing underperforming categories.
+5.Recommendations focus on targeted marketing, improving logistics, and revitalizing underperforming categories.
 
 
 PBIX FILE: https://drive.google.com/file/d/1o4kxJsRL9A4OFpOM82X40-idkeLpWTRj/view?usp=sharing
